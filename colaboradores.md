@@ -1,5 +1,5 @@
 ######colaboradores
-  [![alt text][2]][1]
+  ![alt text][2]
   [2]: https://github.com/joeling23.png?size=20
 - [Joel](https://github.com/joeling23)
 
